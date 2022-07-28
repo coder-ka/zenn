@@ -22,3 +22,4 @@ toc_depth: 2
 chapters:
   - "88016b"
   - "63ba04"
+allow_override: true

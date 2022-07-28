@@ -5,3 +5,4 @@ published: false
 price: 0
 toc_depth: 2
 chapters: []
+allow_override: true
