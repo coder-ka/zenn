@@ -11,9 +11,7 @@ published: true
 published_at: "2022-01-08 16:40"
 ---
 
-以前、esbuildやviteでJSのライブラリを作る方法を紹介しました。
-
-https://zenn.dev/drop_table_user/articles/6aa0b4c706e201
+以前、viteでJSのライブラリを作る方法を紹介しました。
 
 https://zenn.dev/drop_table_user/articles/7b043bef6cec29
 
@@ -68,7 +66,7 @@ ts-nodeで実行するため、tsconfig.json内のmoduleオプションはCommon
 
 ESMのまま実行するやり方もあるのですが、面倒なので止めました。
 
-CommonJSでもesbuildやviteのバンドルには影響がないので、基本は大丈夫だと思います。
+CommonJSでもviteのバンドルには影響がないので、基本は大丈夫だと思います。
 
 # 実行
 
