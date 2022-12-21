@@ -16,7 +16,7 @@ published: true
 
 https://github.com/taylorhakes/fecha
 
-というのも、[moment.jsはメンテナンスモードに入った」(https://momentjs.com/docs/#/-project-status/)らしいので、代わりになるようなミニマムなライブラリは無いかと血眼で探したところ、fecha（スペイン語で日付）というライブラリを見つけ、使っていたのです。
+というのも、[moment.jsはメンテナンスモードに入った](https://momentjs.com/docs/#/-project-status/)らしいので、代わりになるようなミニマムなライブラリは無いかと血眼で探したところ、fecha（スペイン語で日付）というライブラリを見つけ、使っていたのです。
 
 Github star数（執筆時点：2k）もnpmのインストール数（執筆時点：6261k）も申し分ないです。
 
